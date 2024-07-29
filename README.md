@@ -1,8 +1,5 @@
 ## Hello! 👋 Who am I?
 
-<!--
-**KhatriSuson/KhatriSuson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 Full-Stack developer with 1+ years of experience designing and building scalable, high-perfomance 
@@ -16,4 +13,10 @@ as well as back-end techologies like Python, PHP, and Node.js
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<!--
+**KhatriSuson/KhatriSuson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+--!>
+
+
+
