@@ -40,9 +40,7 @@
 
 ---
 
-### 🚀 Noteworthy Projects
-- **[Project One](https://github.com/KhatriSuson/Project-Name)**: Concise description highlighting what the project achieves or how it stands out.
-- **[Another Project](https://github.com/KhatriSuson/Another-Project)**: Another brief description showcasing the skills or tech stack involved.
+
 
 ---
 
@@ -70,22 +68,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhatriSuson&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-#### 🛠️ Code Reviews
-<!-- This will display your GitHub code review activity -->
-![Code Reviews](https://img.shields.io/badge/Code_Reviews-Active-green?style=flat-square&logo=github&logoColor=white)
 
-#### 🔧 Commits
-<!-- Displays a dynamic count of commits -->
-![Commits](https://img.shields.io/github/commit-activity/m/KhatriSuson/KhatriSuson?style=flat-square&color=brightgreen)
-
-#### 🔄 Pull Requests
-<!-- Displays pull request activity -->
-![Pull Requests](https://img.shields.io/github/issues-pr/KhatriSuson/KhatriSuson?style=flat-square&color=blue)
-
-#### 📝 Issues
-<!-- Displays issue activity -->
-![Issues](https://img.shields.io/github/issues/KhatriSuson/KhatriSuson?style=flat-square&color=yellow)
-</div>
 
 <hr>
 
