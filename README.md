@@ -62,6 +62,33 @@
 ### 🎮 Fun Fact
 > _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
 
+
+### 📝 Activity Overview
+
+#### 📈 Code Contributions
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhatriSuson&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+#### 🛠️ Code Reviews
+<!-- This will display your GitHub code review activity -->
+![Code Reviews](https://img.shields.io/badge/Code_Reviews-Active-green?style=flat-square&logo=github&logoColor=white)
+
+#### 🔧 Commits
+<!-- Displays a dynamic count of commits -->
+![Commits](https://img.shields.io/github/commit-activity/m/KhatriSuson/KhatriSuson?style=flat-square&color=brightgreen)
+
+#### 🔄 Pull Requests
+<!-- Displays pull request activity -->
+![Pull Requests](https://img.shields.io/github/issues-pr/KhatriSuson/KhatriSuson?style=flat-square&color=blue)
+
+#### 📝 Issues
+<!-- Displays issue activity -->
+![Issues](https://img.shields.io/github/issues/KhatriSuson/KhatriSuson?style=flat-square&color=yellow)
+</div>
+
+<hr>
+
 <!--
 **KhatriSuson/KhatriSuson** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. 
 -->
