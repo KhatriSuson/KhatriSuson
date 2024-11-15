@@ -64,9 +64,7 @@
 ### 📝 Activity Overview
 
 #### 📈 Code Contributions
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhatriSuson&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+
 
 
 
