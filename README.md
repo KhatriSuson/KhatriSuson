@@ -72,7 +72,9 @@
 
 
 <hr>
-
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
 <!--
 **KhatriSuson/KhatriSuson** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. 
 -->
