@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Suson Khatri 👋</h1>
-<h3 align="center">💻 Full Stack Web Developer | Open-Source Enthusiast | Tech Explorer</h3>
+<h3 align="center">💻 Full Stack Web Developer | Open-Source Enthusiast | Tech Explorer | AWS Certified Cloud Practitioner</h3>
 
 ---
 
