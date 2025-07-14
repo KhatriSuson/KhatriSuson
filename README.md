@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/sushankhatri4" target="blank"><img src="https://img.shields.io/twitter/follow/sushankhatri4?logo=twitter&style=for-the-badge" alt="sushankhatri4" /></a> </p>
 
-- 🔭 I’m currently working on [Pro Com Nepal](https://github.com/Pro-Com-Nepal/pro-com-Nepal-official-site)
+- 🔭 I’m currently working on [Pro Com Nepal](https://procomnepal.com/)
 
 - 🌱 I’m currently learning **ML AI**
 
-- 👯 I’m looking to collaborate on [The Health Project](https://github.com/Pro-Com-Nepal/thehealth)
+- 👯 I’m looking to collaborate on [The Health Project](https://thehealth.procomnepal.com/)
 
 - 🤝 I’m looking for help with [Sahid Prakash Thapa](https://github.com/Pro-Com-Nepal/smriti-trust-gateway-page)
 
